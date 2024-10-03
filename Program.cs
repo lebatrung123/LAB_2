@@ -13,6 +13,7 @@
         Console.WriteLine("Chu vi hcn la: {0}", (w + d) * 2);
 
         Console.WriteLine($"Dien tich hcn la: {w * d}");
+        Console.WriteLine("Du an giao do dev");
 
 
     }
